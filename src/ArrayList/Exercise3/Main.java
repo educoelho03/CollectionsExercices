@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        List<String> cores = new ArrayList<String>();
+        List<String> cores = new ArrayList<>();
         cores.add("Red");
         cores.add("Green");
         cores.add("Orange");

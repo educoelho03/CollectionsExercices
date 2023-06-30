@@ -6,7 +6,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        List<String> jobs = new ArrayList<String>();
+        List<String> jobs = new ArrayList<>();
 
         jobs.add("Developer");
         jobs.add("Web Designer");

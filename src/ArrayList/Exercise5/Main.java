@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        List<String> cars = new ArrayList<String>();
+        List<String> cars = new ArrayList<>();
         cars.add("Renegade");
         cars.add("Onix");
         cars.add("Mustang");

@@ -1,7 +1,6 @@
-package ArrayList.Exercise13;
+package ArrayList.Exercise16;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
@@ -18,13 +17,8 @@ public class Main {
         c2.add("Black");
         c2.add("Pink");
 
-        ArrayList<String> c3 = new ArrayList<>();
 
-        for(String e: c1){
-            c3.add(c2.contains(e) ? "Yes" : "No");
-        }
 
-        System.out.println(c3);
 
     }
 }
