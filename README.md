@@ -1,6 +1,6 @@
 # Exercicios de Collections java: 
 
- * ArrayList [22 exercícios com solução]
+ * ArrayList [18 exercícios com solução]
  * LinkedList [26 exercícios com solução]
  * HashSet [12 exercícios com solução]
  * TreeSet [16 exercícios com solução]
