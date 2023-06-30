@@ -1,4 +1,4 @@
-package ArrayList.Exercise7;
+package ArrayList.Exercise17;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -13,13 +13,9 @@ public class Main {
         jobs.add("Product Owner");
         jobs.add("Front end Developer");
 
-        if(jobs.contains("Developer")){ // Verifica se a String existe na lista
-            System.out.println("Elemento presente na lista.");
-        } else {
-            System.out.println("Elemento nao esta presente na lista.");
-        }
 
         int numElementos = jobs.size();
+
         for(int i = 0; i < numElementos; i++){
             System.out.println(jobs.get(i));
         }
